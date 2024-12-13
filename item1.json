@@ -1,7 +1,7 @@
 [
   {
     "name": "펄스건 이즈리얼",
-    "userImage": "http://zoozoovue.dothome.co.kr/lolimg/item/ezrealskin1.png",
+    "thumb": "http://zoozoovue.dothome.co.kr/lolimg/item/ezrealskin1.png",
     "slide1": "http://zoozoovue.dothome.co.kr/lolimg/item/ezrealskin1.png",
     "slide2": "http://zoozoovue.dothome.co.kr/lolimg/item/ezrealskin2.png",
     "slide3": "http://zoozoovue.dothome.co.kr/lolimg/item/ezrealskin3.png",
@@ -11,7 +11,7 @@
   },
   {
     "name": "할로윈 제리",
-    "userImage": "http://zoozoovue.dothome.co.kr/lolimg/item/zeriskin1.png",
+    "thumb": "http://zoozoovue.dothome.co.kr/lolimg/item/zeriskin1.png",
     "slide1": "http://zoozoovue.dothome.co.kr/lolimg/item/zeriskin1.png",
     "slide2": "http://zoozoovue.dothome.co.kr/lolimg/item/zeriskin2.png",
     "slide3": "http://zoozoovue.dothome.co.kr/lolimg/item/zeriskin3.png",
@@ -21,7 +21,7 @@
   },
   {
     "name": "월드챔피언쉽 쓰레쉬",
-    "userImage": "http://zoozoovue.dothome.co.kr/lolimg/item/threshskin1.png",
+    "thumb": "http://zoozoovue.dothome.co.kr/lolimg/item/threshskin1.png",
     "slide1": "http://zoozoovue.dothome.co.kr/lolimg/item/threshskin1.png",
     "slide2": "http://zoozoovue.dothome.co.kr/lolimg/item/threshskin2.png",
     "slide3": "http://zoozoovue.dothome.co.kr/lolimg/item/threshskin3.png",
@@ -31,7 +31,7 @@
   },
   {
     "name": "월드챔피언쉽 자르반4세",
-    "userImage": "http://zoozoovue.dothome.co.kr/lolimg/item/jarvanskin1.png",
+    "thumb": "http://zoozoovue.dothome.co.kr/lolimg/item/jarvanskin1.png",
     "slide1": "http://zoozoovue.dothome.co.kr/lolimg/item/jarvanskin1.png",
     "slide2": "http://zoozoovue.dothome.co.kr/lolimg/item/jarvanskin2.png",
     "slide3": "http://zoozoovue.dothome.co.kr/lolimg/item/jarvanskin3.png",
@@ -41,7 +41,7 @@
   },
   {
     "name": "월드챔피언쉽 카직스",
-    "userImage": "http://zoozoovue.dothome.co.kr/lolimg/item/khazixskin1.png",
+    "thumb": "http://zoozoovue.dothome.co.kr/lolimg/item/khazixskin1.png",
     "slide1": "http://zoozoovue.dothome.co.kr/lolimg/item/khazixskin1.png",
     "slide2": "http://zoozoovue.dothome.co.kr/lolimg/item/khazixskin2.png",
     "slide3": "http://zoozoovue.dothome.co.kr/lolimg/item/khazixskin3.png",
@@ -51,7 +51,7 @@
   },
   {
     "name": "월드챔피언쉽 르블랑",
-    "userImage": "http://zoozoovue.dothome.co.kr/lolimg/item/leblancskin1.png",
+    "thumb": "http://zoozoovue.dothome.co.kr/lolimg/item/leblancskin1.png",
     "slide1": "http://zoozoovue.dothome.co.kr/lolimg/item/leblancskin1.png",
     "slide2": "http://zoozoovue.dothome.co.kr/lolimg/item/leblancskin2.png",
     "slide3": "http://zoozoovue.dothome.co.kr/lolimg/item/leblancskin3.png",
